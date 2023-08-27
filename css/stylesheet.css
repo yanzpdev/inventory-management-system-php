@@ -1,0 +1,26 @@
+html {
+	scroll-behavior: smooth;
+	
+}
+
+.welcome{
+	background-image:url('../images/bg.jpg');
+	min-height:60%;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+.bg-background{
+	background-image:url('../images/bg.jpg');
+	min-height:50%;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
